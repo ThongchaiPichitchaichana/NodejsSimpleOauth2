@@ -1,0 +1,12 @@
+# Editor
+.vscode
+
+# Tests and examples
+example
+test
+
+# Configuration files
+.travis.yml
+.nvmrc
+.eslintrc.json
+.eslintignore
